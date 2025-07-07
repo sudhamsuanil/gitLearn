@@ -1,1 +1,1 @@
-"This is the content of the file from master check 2."
+"This is the content of the file from Jaffa."

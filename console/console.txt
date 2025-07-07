@@ -1,1 +1,1 @@
-"This is the content of the file A."
+"This is the content of the file from Master."
